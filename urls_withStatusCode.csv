@@ -1,0 +1,6 @@
+url,status_code
+https://www.google.com/,200
+https://www.youtube.com/,200
+https://jenkins.techsophy.com/jenkins/login?from=%2Fjenkins,200
+https://git.techsophy.com/,200
+https://hrms.techsophy.com,200

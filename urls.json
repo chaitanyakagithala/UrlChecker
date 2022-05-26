@@ -1,0 +1,22 @@
+{
+    "https://www.google.com/": {
+        "url": "https://www.google.com/",
+        "status_code": "200"
+    },
+    "https://www.youtube.com/": {
+        "url": "https://www.youtube.com/",
+        "status_code": "200"
+    },
+    "https://jenkins.techsophy.com/jenkins/login?from=%2Fjenkins": {
+        "url": "https://jenkins.techsophy.com/jenkins/login?from=%2Fjenkins",
+        "status_code": "200"
+    },
+    "https://git.techsophy.com/": {
+        "url": "https://git.techsophy.com/",
+        "status_code": "200"
+    },
+    "https://hrms.techsophy.com": {
+        "url": "https://hrms.techsophy.com",
+        "status_code": "200"
+    }
+}
